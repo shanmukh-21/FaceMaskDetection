@@ -27,5 +27,5 @@ Step 3: Building the CNN model
 Step 4: Making the single prediction
 
 Download the dataset from the below link:
-
-        https://www.kaggle.com/datasets/sanknn/face-mask-detectionhttps://www.kaggle.com/datasets/sanknn/face-mask-detection
+[https://www.kaggle.com/datasets/sanknn/face-mask-detectionhttps://www.kaggle.com/datasets/sanknn/face-mask-detection]()
+    
